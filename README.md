@@ -1,6 +1,6 @@
 ### Hi there 👋
  💻 📱 ⌨ ❤
-### https://my-page-51akuokmn-halilgoksu.vercel.app/
+### https://my-page-jexnmitlb-halilgoksu.vercel.app/
 <!--
 **halilgoksu/halilgoksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
