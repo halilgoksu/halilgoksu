@@ -1,6 +1,7 @@
 ### Hi there 👋
  💻 📱 ⌨ ❤
 ### https://halilgoksu.com/
+## https://www.linkedin.com/in/halil-goksu-b05b86236/
 <!--
 **halilgoksu/halilgoksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
