@@ -4,7 +4,7 @@
 ## :) 
 
 🔭 I’m currently Creating Full stack and responsible apps; With React-Java-Postgresql-Aws...
-##Postman Java JS Meaven Tomcat Postgresql 
+
 
 <!--
 **halilgoksu//halilgoksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
