@@ -4,7 +4,7 @@
 ## :)  
 
  
-🔭 I’m currently Creating Full stack and responsible web applications; With React-Spring boot-Postgresql...
+🔭I am currently creating full-stack web and mobile applications using React for the front-end, React Native for mobile development.
  
 
 <!-- 
